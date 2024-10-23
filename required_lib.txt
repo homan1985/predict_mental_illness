@@ -1,0 +1,10 @@
+Required libraries:
+
+pandas
+matplot
+scipy
+sciki-learn
+
+To do pip install library xxxx
+Step 1. Type "pip install xxxx" in terminal and press enter
+Step 2. Type "!pip install xxxx" in cell and run the cell
